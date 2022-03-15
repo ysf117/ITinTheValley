@@ -1,0 +1,9 @@
+  {
+  "adverts": [
+    { "id": "1", "advertisers": "Apple", "MagazineIssue": "10/2019",  "amount": "£1000", "size": "Medium", "page":"p.3" },
+    { "id": "2",  "advertisers": "Google", "MagazineIssue": "09/2019",  "amount": "£3000", "size": "Large", "page":"p.21"  },
+    { "id": "3",  "advertisers": "Microsoft", "MagazineIssue": "10/2019",  "amount": "£1500", "size": "Medium", "page":"p.4" },
+    { "id": "4",  "advertisers": "Sony", "MagazineIssue": "09/2019", "amount": "£3000", "size": "Large", "page":"p.11"   },
+    { "id": "5",  "advertisers": "Amazon", "MagazineIssue": "11/2019", "amount": "£1000", "size": "Small", "page":"p.44"  }
+  ]
+}

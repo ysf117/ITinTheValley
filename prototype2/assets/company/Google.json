@@ -1,0 +1,16 @@
+{
+  "name": "Google",
+  "id": 2,
+  "Rate":"£3000",
+"picture":"https://i.ytimg.com/vi/-QBX_61gxOE/maxresdefault.jpg",
+  "work": [
+    {
+      "title": "Google Home",
+      "description": "Be More at Home.",
+      "MagazineIssue":"10/2019",
+      "size": "Large",
+      "page":"p.21" ,
+    }
+
+   ]
+}

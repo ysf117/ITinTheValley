@@ -1,0 +1,15 @@
+{
+  "name": "Jack White",
+  "id": 3,
+  "Rate":"£220",
+"picture":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/smart-watches-lead-1557415911.jpg ",
+  "work": [
+    {
+      "photograph": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/smart-watches-lead-1557415911.jpg ",
+      "description": "Smart Watches",
+      "MagazineIssue":"01/10/2019",
+      "page":"26" ,
+    }
+
+   ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sony",
+  "id": 4,
+  "Rate":"£3000",
+"picture":"https://i.ytimg.com/vi/cSmVAgrJAbg/maxresdefault.jpg",
+  "work": [
+    {
+      "title": "Sony WH-1000xm3",
+      "description": "Industry-Leading Wireless Noise Cancellation ",
+      "MagazineIssue":"10/2019",
+      "size": "Large",
+      "page":"p.11" ,
+    }
+
+   ]
+}

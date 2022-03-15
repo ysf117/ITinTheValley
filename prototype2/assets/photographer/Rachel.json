@@ -1,0 +1,15 @@
+{
+  "name": "Rachel Thompson",
+  "id": 4,
+  "Rate":"£300",
+"picture":"https://cdn57.androidauthority.net/wp-content/uploads/2016/10/google-hq-2016-840x560.jpg ",
+  "work": [
+    {
+      "photograph": "https://cdn57.androidauthority.net/wp-content/uploads/2016/10/google-hq-2016-840x560.jpg ",
+      "description": "Visiting Google",
+      "MagazineIssue":"01/11/2019",
+      "page":"12" ,
+    }
+
+   ]
+}

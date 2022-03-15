@@ -1,0 +1,11 @@
+{
+  "title": "Payment transactions - made ",
+  "description": "To handle payment transactions going out",
+  "payments": [
+    { "id": "1", "name": "Bob Ross", "story": "Iphone 11 Review", "magazine issue": "10/2019", "resouce":"(pic/story)", "payment": "£1400" },
+    { "id": "2", "name": "Serena Williams", "story": "AI and the Future", "magazine issue": "09/2019", "resouce":"(pic/story)", "payment": "£275" },
+    { "id": "3", "name": "Lara Lui", "story": "Best Smart Watch of 2019", "magazine issue": "10/2019", "resouce":"(pic/story)", "payment": "£1600" },
+    { "id": "4", "name": "John Doe", "story": "The best VR headset in 2019", "magazine issue": "09/2019", "resouce":"(pic/story)", "payment": "£1200" },
+    { "id": "5", "name": "Jack White", "story": "AI and the Future", "magazine issue": "09/2019", "resouce":"(pic/story)" , "payment": "£220"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Sam Smith",
+  "id": 2,
+  "Rate":"£110",
+"picture":"https://c1.neweggimages.com/ProductImage/26-910-007-V01.jpg ",
+  "work": [
+    {
+      "photograph": "https://c1.neweggimages.com/ProductImage/26-910-007-V01.jpg ",
+      "description": "VR Headset",
+      "MagazineIssue":"01/11/2019",
+      "page":"15" ,
+    }
+
+   ]
+}

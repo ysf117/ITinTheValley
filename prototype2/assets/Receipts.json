@@ -1,0 +1,14 @@
+// the invoice 
+{
+  "title": "Payment transactions - recieved ",
+  "description": "To handle payment transactions coming in",
+  // status = recieved or due 
+  // issue is the magazine issue 
+  "receipts": [
+    { "id": "1", "advertisers": "Apple", "issue": "10/2019", "advert":"(pic)", "amount": "£1000", "status": "recieved" },
+    { "id": "2",  "advertisers": "Google", "issue": "09/2019", "advert":"(pic)", "amount": "£3000", "status": "recieved" },
+    { "id": "3",  "advertisers": "Microsoft", "issue": "10/2019", "advert":"(pic)", "amount": "£1500", "status": "due" },
+    { "id": "4",  "advertisers": "Sony", "issue": "09/2019", "advert":"(pic)", "amount": "£3000", "status": "recieved"  },
+    { "id": "5",  "advertisers": "Amazon", "issue": "11/2019", "advert":"(pic)", "amount": "£1000", "status": "due" }
+  ]
+}

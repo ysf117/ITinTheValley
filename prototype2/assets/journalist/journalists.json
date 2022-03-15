@@ -1,0 +1,7 @@
+{
+  "journalists": [
+   { "id": "1", "name": "John Doe", "salary":"£1200", "DOB":"07/05/2000", "address":"64 zoo lane", "contact info":"12345678900"},
+    { "id": "2", "name": "Bob Ross","salary":"£1400","DOB":"18/12/2000", "address":"01 london road", "contact info":"12345678900" },
+    { "id": "3", "name": "Lara Lui","salary":"£1500","DOB":"08/08/1999", "address":"118 peace drive", "contact info":"12345678900"}
+  ]
+}

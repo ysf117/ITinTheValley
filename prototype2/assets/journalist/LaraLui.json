@@ -1,0 +1,29 @@
+{
+  "name": "Lara Lui",
+  "id": 3,
+  "Rate":"£1600",
+  "picture":" https://cdn.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png",
+  "work": [
+    {
+      "title": "Best Smart Watch of 2019",
+      "story": "Here's our top 10 smart watches of 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "publish_date": "30/10/2019",
+      "issue":"01/10/2019",
+    
+    },
+    {
+      "title": "PlayStation 5 Dev Kits Really Are V-Shaped",
+      "story": "Sony designed them that way to allow the cooling to work when they are stacked. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "publish_date": "28/08/2019",
+      "issue":"01/09/2019",
+
+    },
+    {
+      "title": "Google Bans Government Adverts 10 Days Before UK Election",
+      "story": "Eight advertisements posted by the government have been removed from Google's ad network due to a breach of the search giant's policies, a move concurrent with Facebook removing similar adverts from the government for violating the IP rights of the BBC. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "publish_date": "29/10/2019",
+      "issue":"01/11/2019",
+ 
+    }
+  ]
+}

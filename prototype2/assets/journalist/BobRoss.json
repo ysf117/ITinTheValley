@@ -1,0 +1,29 @@
+{
+  "name": "Bob Ross",
+  "id": 2,
+  "Rate":"£1400",
+  "picture":" https://www.biography.com/.image/t_share/MTIwNjA4NjMzOTU5NTgxMTk2/bob-ross-9464216-1-402.jpg",
+  "work": [
+    {
+      "title": "Iphone 11 Review",
+      "story": "Does the new Iphone live up to expectations? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "publish_date": "30/10/2019",
+      "issue":"01/10/2019",
+    
+    },
+    {
+      "title": "Qualcomm Teases Giant Under-Display Fingerprint Sensor",
+      "story": "Qualcomm's 3D Sonic Max is 17x larger than the Galaxy S10's sensor, but will it be more secure? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "publish_date": "28/08/2019",
+      "issue":"01/09/2019",
+
+    },
+    {
+      "title": "Qualcomm Reveals Next-Gen Snapdragon 765 and 865 Chipsets",
+      "story": "The Snapdragon 865 will almost certainly be the processor in the Samsung Galaxy S11 and the LG G9, and it will come with 5G. We got a few details today, and expect more tomorrow. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "publish_date": "29/10/2019",
+      "issue":"01/11/2019",
+ 
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Microsoft",
+  "id": 3,
+  "Rate":"£1500",
+"picture":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2019/08/macbook-surface-laptop-920x585.jpg",
+  "work": [
+    {
+      "title": "Microsoft Surface Pro",
+      "description": "Microsoft Surface Pro Out Now",
+      "MagazineIssue":"10/2019",
+      "size": "Medium",
+      "page":"p.4" ,
+    }
+
+   ]
+}

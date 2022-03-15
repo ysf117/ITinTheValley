@@ -1,0 +1,16 @@
+{
+  "name": "Apple",
+  "id": 1,
+  "Rate":"£2000",
+"picture":"https://i.ytimg.com/vi/K0VWwY6MR0k/maxresdefault.jpg",
+  "work": [
+    {
+      "title": "Iphone 11",
+      "description": "Iphone 11, its tough out here. ",
+      "MagazineIssue":"10/2019",
+      "size": "Medium",
+      "page":"p.3" ,
+    }
+    
+   ]
+}

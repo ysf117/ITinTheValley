@@ -1,0 +1,8 @@
+{
+  "photographers": [
+{ "id": "1", "name": "Serena Russel", "payment": "£275","DOB":"07/05/2000", "address":"12 London Rd", "contact info":"12345678900" },
+{ "id": "2", "name": "Sam Smith", "payment": "£110","DOB":"07/05/2000", "address":"22 Ealing Rd", "contact info":"12345678900"},
+{ "id": "3", "name": "Jack White", "payment": "£220","DOB":"07/05/2000", "address":"32 Northfield Rd", "contact info":"12345678900"},
+{ "id": "4", "name": "Rachel Thompson", "payment": "£300","DOB":"07/05/2000", "address":"64 Park Royal", "contact info":"12345678900"},
+  ]
+}

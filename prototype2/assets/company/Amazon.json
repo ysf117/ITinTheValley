@@ -1,0 +1,16 @@
+{
+  "name": "Amazon",
+  "id": 5,
+  "Rate":"£1000",
+"picture":"https://i.ytimg.com/vi/cSmVAgrJAbg/maxresdefault.jpg",
+  "work": [
+    {
+      "title": "Amazon Black Friday",
+      "description": "Big Savings No Waiting ",
+      "MagazineIssue":"11/2019",
+      "size": "Small",
+      "page":"p.44" ,
+    }
+
+   ]
+}
