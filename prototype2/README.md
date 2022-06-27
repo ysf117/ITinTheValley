@@ -1,11 +1,13 @@
-# Sample Snack app
+ITinTheValley: A Prototype react native mobile application
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Introduction:
+A magazine called “IT in the Valley” is published every month and an information system is needed to help deal with the editing of the magazine. It should also help with the payments to the contributors of stories and photographs and the receipt of payment from the advertisers. The enterprise consists of four main departments: A Marketing Department, an Editing Department, a Processing Centre and an Accounts Department. The information system will collect adverts, stories and photographs and publish magazine issues.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Requirements: 
+  - Record details from advertisers, journalists and photographers. 
+  - Record payments to and from advertisers, journalists and photographers. 
+  - Collect adverts, stories and photographs and publish magazine issues. 
+  - Store old stories and photographs for research, 
+  - Have an easy to use interface that requires little training. 
+  - Allow each department to carry out their duties effectively. 
+  - Allow users to take photos and choose photos from their device.
